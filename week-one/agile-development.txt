@@ -59,6 +59,10 @@ git version 2.5.0
 
 2. Copy below the output from `git config --global --list`:
 
+--global --list
+user.name=aali16
+user.email=aali16@hawk.iit.edu
+
 
 You also need to set up your public/private keypair with GitHub. Once you’ve
 done that, do the following:
