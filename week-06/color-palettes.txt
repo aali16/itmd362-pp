@@ -26,8 +26,8 @@ Explanation of your color choices: I selected this color because most of the tim
 
 * A complementary palette for a banking website.
 
-Filename:
-Explanation of your color choices:
+Filename: Bankcolor.png
+Explanation of your color choices: To me bank color need to be cool color. Eye cool color always attract customer and feel like dont want to leave the page. Bank attractive color webpage brings customers.
 
 * A triadic palette for a website that offers games for children.
 
