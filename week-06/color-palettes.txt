@@ -21,8 +21,9 @@ Explanation of your color choices: I select this color because on high-end gamin
 
 * A shaded color palette for a website that sells natural and organic foods.
 
-Filename: 
-Explanation of your color choices: 
+Filename: Organicfood.png
+Explanation of your color choices: I selected this color because most of the time organic food mostly recognized through somewhat greenish style color. Greenish color sometime give real feel of food.
+
 * A complementary palette for a banking website.
 
 Filename:
