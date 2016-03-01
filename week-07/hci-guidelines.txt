@@ -26,8 +26,8 @@ Fine-grained, atomic commits to your Production Problems repository that include
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
-* How you implemented it in your sketch:
+* HCI Guidline One (URL): https://www.google.com/design/spec/usability/accessibility.html#accessibility-readability
+* How you implemented it in your sketch: First, my target will be the to make the page more clear and readable, and easy access for students. Will also show additionl help & support option for any troubleshooting. Most of the option will be available on touch of a button. With that touch of button feature it will help student to navigate easily and can go back and forth between pages.  
 
 * HCI Guidline Two (URL):
 * How you implemented it in your sketch:
