@@ -29,8 +29,8 @@ Fine-grained, atomic commits to your Production Problems repository that include
 * HCI Guidline One (URL): https://www.google.com/design/spec/usability/accessibility.html#accessibility-readability
 * How you implemented it in your sketch: First, my target will be the to make the page more clear and readable, and easy access for students. Will also show additionl help & support option for any troubleshooting. Most of the option will be available on touch of a button. With that touch of button feature it will help student to navigate easily and can go back and forth between pages.  
 
-* HCI Guidline Two (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Two (URL): https://www.google.com/design/spec/style/icons.html#
+* How you implemented it in your sketch: Secondly, I will add some grapically, small 3d animinated and eye catching icons which help users or student that this icon is for support or for iit alert, news etc. Eye catching icon always attract users to click on the icon to see what the treasure inside it.
 
 * HCI Guidline Three (URL):
 * How you implemented it in your sketch:
