@@ -32,5 +32,5 @@ Fine-grained, atomic commits to your Production Problems repository that include
 * HCI Guidline Two (URL): https://www.google.com/design/spec/style/icons.html#
 * How you implemented it in your sketch: Secondly, I will add some grapically, small 3d animinated and eye catching icons which help users or student that this icon is for support or for iit alert, news etc. Eye catching icon always attract users to click on the icon to see what the treasure inside it.
 
-* HCI Guidline Three (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Three (URL): https://www.google.com/design/spec/patterns/data-formats.html
+* How you implemented it in your sketch: Thirdly, want to add security implementation, where there is a login there has to be a security. To accomplish this will add the feature of date and time just under the login button, with this feature will also add the attempts to login feature. After 5 login, account will lock for secuirty purpose. Have to call support to unlock the account.
