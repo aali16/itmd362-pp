@@ -6,7 +6,7 @@ Using the HTML Tidy tool, installed as a command-line tool on your computer via 
 
 ## Resources
 
-* HTML Tidy: http://www.html-tidy.org/
+* HTML Tidy: http://www.html-tidy.org/.
 * HTML Validator: http://validator.w3.org/
 
 ## Deliverables
