@@ -6,7 +6,7 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 ## Deliverables
 
-* URLs for the usability checklists you've found:
+** URLs for the usability checklists you've found:
 
 1.
 2.
