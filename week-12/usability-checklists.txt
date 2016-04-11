@@ -13,13 +13,13 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Font Size/Spacing Is Easy to Read - font size help to view the document easily.
+2. Company Logo Is Prominently Placed 
+3. Clear Path to Contact Information - People want clear information, they dont want to waist time in finding information.
+4. Company Logo Is Linked to Home-page
+5. Styles & Colors Are Consistent - user want decent color while viewing any page and have to be consistent
+6. First impression - First impression is last impression, if they like site will come back for update, otherwise no chance
+7. Navigation is consistent on every page. - Help user to navigate the website easily.
+8. Search is available on every page - most time user dont want to struggle in finding content they will search on any page.
+9. Important content is displayed first.
+10. There are no broken links - broken link will give bitter taste to user.
