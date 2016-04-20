@@ -14,7 +14,7 @@ B. Emotional design levels of your object:
 
 * Visceral: It is always infront of me even in my office or at home. Helpful creation
 
-* Behavioral:
+* Behavioral: This image of sticky note always help me to keep me on track of the list which need to be follow or need to be done. Will say is much better then mobile reminder. Always infront of me.
 
 * Reflective:
 
