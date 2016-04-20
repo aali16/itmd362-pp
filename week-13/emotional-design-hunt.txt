@@ -20,6 +20,6 @@ B. Emotional design levels of your object:
 
 C.  Emotional design qualities of the object that might be useful for Project 3/MyIIT redesign:
 
-1.
-2.
-3.
+1. Must have to be user friendly, which means user dont have to look around for specifc and important thing need to be upfront.
+2. Secondly, will have to work with colors. Any user, no matter of any age, always attract with cool and charming color combination. As mention with sticky note always attract me with different color. Same thing should be apply here with light, cool and appeling colors, help user to be in website for long.
+3. Will prefer to add some IIT pictures in lite background, which will some contrast combination of color. Moreover, most user attract more with the easy navigation.
